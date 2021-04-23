@@ -9,3 +9,4 @@ git status
 git git add -A
 git config
 git config --list
+git branch
