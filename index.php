@@ -7,10 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    Só agora o que eu preciso fazer é ver se isso ajuda ou não.
+    
+    <p>Apenas para escrever algo, quero ver se abre</p>
 
-    porque eu acho que é meio que inutil.
-
-    Só, if I did someting
 </body>
 </html>
